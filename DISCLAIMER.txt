@@ -1,0 +1,141 @@
+Disclaimer
+
+About This Software
+
+H@MEWORX was originally built for the internal use of Alderpen Media, Inc. It was
+created by George Benson, on behalf of, and as an agent of, Alderpen Media, Inc., with
+the assistance of AI Tools, including Claude Code (AI) and OpenAI Codex. The software is
+shared freely with the hope that others may find it useful.
+
+No Warranty
+
+This software is provided as-is, without any warranty of any kind. We make no claims
+about its fitness for any particular purpose, its reliability, accuracy, or suitability
+for your use case. Use it at your own risk.
+
+Not Professional Advice
+
+H@MEWORX is a modular administrative platform that may include modules and features
+related to business operations, records, document workflows, and content workflows,
+including future capabilities such as document management, QR-based document
+authentication, bookkeeping/accounting support, analytics, and form processing.
+
+Nothing in this software, its modules, or its documentation is professional advice of
+any kind and must not be relied on as IT, security, networking, accounting, financial,
+legal, tax, compliance, or other professional guidance.
+
+Assumption of Risk and Liability
+
+You are solely responsible for how you configure, deploy, and use H@MEWORX and any
+modules. You assume all risk and liability arising from your use of the software,
+including decisions, actions, records, communications, and outcomes that result from
+that use.
+
+It is your responsibility to obtain qualified professional advice where needed and to
+validate that your use complies with applicable laws, regulations, and contractual
+obligations.
+
+Intended Environment
+
+H@MEWORX is designed and tested for exactly one environment: a single self-hosted
+instance running in a Docker-style container on a private home or small-business
+network, serving a small number of users.
+
+It has NOT been tested for direct exposure to the public internet, for multi-tenant use,
+for large numbers of users, for any high-availability configuration, or for any
+production hosting scenario. No claim is made about how it behaves in any of those
+situations, and no work has been done to make it suitable for them.
+
+Deploying H@MEWORX outside its intended environment is entirely at your own risk. You
+are solely responsible for securing any system you expose, for any network or firewall
+configuration, and for any consequences of running this software in an environment it
+was not designed or tested for.
+
+No Support Provided
+
+Alderpen Media, Inc. does not provide support for this software.
+
+As time permits, we may publish documentation: written instructions, and instructional
+videos showing how we installed and configured H@MEWORX for our own use. Any such
+material is published for anyone to use, as-is, with no commitment to create it, keep it
+current, or continue publishing it.
+
+We do not provide installation help, setup assistance, configuration services,
+onboarding, training, or troubleshooting. There is no support channel, no help desk, no
+support email address, and no service-level commitment of any kind. We are under no
+obligation to respond to questions, requests for help, bug reports, or feature requests.
+
+This software was built for the internal use of Alderpen Media, Inc. It is shared freely
+in the hope that others may find it useful. Sharing it does not create any duty to
+support, maintain, monitor, update, or continue developing it, and development may stop
+at any time without notice.
+
+Occasional Assistance
+
+On rare occasions, and solely at our own discretion, we may choose to spend time with an
+individual — for example, observing while they perform an installation themselves and
+offering things to consider along the way. Such sessions may involve screen sharing or
+remote-viewing software, which the individual initiates and controls, and may end at any
+time.
+
+In any such session, the individual performs all work on their own systems and makes all
+decisions about their own systems. Alderpen Media, Inc. does not operate, administer, or
+take responsibility for anyone else's systems, data, or accounts, and any changes made
+to them are made by the individual, at their own discretion and risk.
+
+No Service Contract or Professional Relationship
+
+Any assistance provided by Alderpen Media, Inc. or its representatives, including
+installation help, setup support, onboarding, training, troubleshooting, or guidance,
+whether paid, unpaid, or donation-based, is provided as a courtesy unless a separate
+written agreement executed by both parties is in place.
+
+Such assistance does not create a service contract, partnership, agency relationship,
+employment relationship, fiduciary relationship, or any ongoing duty to support,
+maintain, monitor, or update the software. It creates no expectation that further
+assistance will be offered to anyone, at any time, for any reason.
+
+About Donations
+
+Alderpen Media, Inc. is a for-profit ministry. This software is given away at no cost,
+and no donation is ever required, requested, or expected in exchange for it, for
+documentation, or for any assistance we may choose to offer.
+
+We are, however, direct about this: the resources we create exist only because people
+choose to support the work voluntarily. That support is what allows the ministry to
+continue.
+
+If you choose to give, understand clearly:
+
+  - Donations are entirely voluntary and are never a condition of receiving anything
+    from us.
+  - Donations are treated as taxable income to Alderpen Media, Inc.
+  - Alderpen Media, Inc. is not a 501(c)(3) nonprofit. Donations are NOT
+    tax-deductible as charitable contributions.
+  - Whether a contribution has any tax treatment in your particular situation is a
+    question for your own tax advisor. Nothing here is tax advice.
+
+User Responsibility
+
+You are solely responsible for your system configuration, data, backups, security,
+compliance, and all business or personal decisions made using this software and its
+modules, including accounting/bookkeeping workflows, content workflows, analytics,
+communications, forms, and document-related processes.
+
+Limitation of Liability
+
+Alderpen Media, Inc. and its principals, officers, employees, and contributors shall, to
+the maximum extent permitted by applicable law, not be liable for any direct, indirect,
+incidental, special, consequential, or punitive damages, or any loss of profits,
+revenue, data, or goodwill, arising out of or in connection with your use of or
+inability to use this software, even if advised of the possibility of such damages.
+
+Use at Your Own Risk
+
+By using this software, you acknowledge that you have read this disclaimer, understand
+it, and agree to its terms. If you do not agree, do not use this software.
+
+---
+
+Copyright (c) 2026 Alderpen Media, Inc. - Released under the MIT License (see
+LICENSE.txt).
